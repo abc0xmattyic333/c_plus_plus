@@ -10,6 +10,8 @@
 
 // However instead of placing numbers inside of double qoutes we can do the following:
 
+#include <iostream>
+using  namespace std;
 int main() {
   cout << 3;
   cout << 3 + 3;  
