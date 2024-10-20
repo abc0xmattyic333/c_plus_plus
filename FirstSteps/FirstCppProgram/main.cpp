@@ -1,6 +1,10 @@
 // This is a single-line comment in C++.
 
 /*
+This line is a comment line. A comment is used to display additional information about the program. A comment does not contain any programming logic.
+*/
+
+/*
 This is a multi-line comment in C++.
 */
 
