@@ -75,3 +75,43 @@ For example, the words int, return, and using are some keywords used in our prog
 
 There are total 95 keywords in C++. These are some keywords.
 */
+
+/*
+Keywords in C++:
+
+Types of keywords in C++:
+
+- Control Flow Keywords
+- Data Type Keywords
+- Storage Class Keywords
+- Access Control Keywords
+- Function Keywords
+- Object-oriented Keywords
+- Exception Handling Keywords
+- Namespace Keywords
+- Miscellaneous Keywords
+*/
+
+/*
+1. auto 
+
+The auto keyword in C++ enables the compiler to determine a variable's data type from the value that has been assigned to it.
+*/
+
+/*
+2. const
+
+In C++, the unmodifiable status of a variable or function is indicated by the usage of the const keyword. When a variable is specified as const, the programme cannot change its value at any time. Similar to this, a function cannot modify any of the members of its class when it is marked as const.
+*/
+
+/*
+3. break
+
+When using a loop or switch statement, the break keyword in C++ is used to end it. The control of the programme moves to the line of code following the loop or switch statement when the break keyword is used.
+*/
+
+/*
+4. continue
+
+To go to the next iteration of a loop while skipping the current one, use the continue keyword in C++. The loop skips the remaining statements in the current iteration and begins the subsequent iteration when the continue keyword is encountered.
+*/
